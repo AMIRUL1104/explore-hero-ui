@@ -15,7 +15,7 @@ function Navbar() {
               <Link href="/">Home</Link>
             </li>
             <li>
-              <Link href="/addtask">Add Task</Link>
+              <Link href="/users">Add User</Link>
             </li>
           </ul>
         </header>
